@@ -1,5 +1,8 @@
-.idea/
-main.py""" Push first project to github """
+Ками @, [16/8/23 18:38]
+git config --global user.email "kamilataalaibekkuzu@gmail.com"
+
+Сайфуллах, [17/8/23 18:25]
+""" Push first project to github """
 # git init
 # git add .
 # git commit -m "message"
@@ -9,9 +12,9 @@ main.py""" Push first project to github """
 
 """After"""
 # git add .
-#git commit -m "message"
-#git push origin master
-git branch
+# git commit -m "message"
+# git push origin master
+
 
 """git commands"""
 # git status - check status
